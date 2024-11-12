@@ -1,11 +1,11 @@
 {
-    "name": "marba_project",
-    "short_name": "marba_project",
+    "name": "Onktem",
+    "short_name": "Onktem",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#hexcode",
     "theme_color": "#hexcode",
-    "description": "A new Flutter project.",
+    "description": "A local products and services app made with Flutter!",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
